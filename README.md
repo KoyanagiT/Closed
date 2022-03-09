@@ -2,13 +2,16 @@
 
 unityの練習で作ったゲーム
 
+廊下を移動し，Flagになるライトを探します．
+
 # DEMO
 
-動画を上げていますが，どうしてもできない時だけご覧ください．
+動画を上げています．
 
 # Requirement
 
 * unity 2019.4.9f1
+* Standard Assets (プロジェクト内にあります)
 
 # Author
 
@@ -16,9 +19,5 @@ unityの練習で作ったゲーム
 
 # Usage
 
-exe
+closed_play.zipをダウンロードし，exeファイルを実行します．
 
-# Note
-
-Unfortunately the project to create the score was being created in Python, but it has not been completed.
-If you want to create a score, please read my program and understand how to create it yourself.
